@@ -1,3 +1,2 @@
 # resume
 
-Build resume where it shows the spec of the person...
